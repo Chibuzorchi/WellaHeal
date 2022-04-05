@@ -1,0 +1,2 @@
+# WellaHeal
+Simple Console app
